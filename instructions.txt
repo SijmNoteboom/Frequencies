@@ -1,0 +1,2 @@
+Model can be build with help from following URL:
+https://sidparida.com/2017/07/12/python-audio-synthesis-from-scratch-a-tutorial-series-part-2-creating-the-oscillators-and-sound-generation-module/
