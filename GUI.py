@@ -1,4 +1,10 @@
 import tkinter as tk
+from soundGenerator import sound
+
+
+class GUIBoard(tk.Frame):
+    pass
+
 
 # GUI general setup
 win = tk.Tk()
@@ -13,3 +19,4 @@ Button_ok = tk.Button(win, text='OK').grid(row=0)
 
 
 win.mainloop()
+
